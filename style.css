@@ -1,0 +1,26 @@
+ @charset "UTF-8";
+
+
+ body{
+background-color: black;
+color: white;
+ }
+ 
+ .dado{
+    color: cyan;
+    
+ }
+
+ fieldset{
+    margin-top: 25px;
+    color: lime;
+    border: solid red;
+ }
+
+ .top{
+    position: fixed;
+    top: 0%;
+    text-align: center;
+    background-color: gray;
+    width: 100vw;
+ }
